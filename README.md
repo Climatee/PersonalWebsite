@@ -1,4 +1,4 @@
-# PersonalWebsite
+# Personal Website
 My website that I programmed just using HTML and CSS. It is linked [here](https://lukedischiave.neocities.org). 
 
 I have several buttons that link to my YouTube, Twitch, MK64.com page, and Discord. 
