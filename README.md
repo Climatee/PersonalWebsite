@@ -16,3 +16,6 @@ These are my personal best times on an American/Japanese Nintendo N64 console, w
 
 ## Datapath 
 Contains my experience and documentation surrounding a Datapath Vision-E1 capture card. Orginally produced for the professional market, it was designed to display a nearly-lossless analog RGB video or digital video feed. I document how I was able to capture high-fidelity video from my Nintendo 64 using one of these devices.
+
+## neocities.png
+The neocities logo
