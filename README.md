@@ -1,7 +1,7 @@
 # PersonalWebsite
 My website that I programmed just using HTML and CSS. It is linked [here](https://lukedischiave.neocities.org). 
 
-I have several buttons that link to my YouTube, Twitch, MK64.com page, and Discord.
+I have several buttons that link to my YouTube, Twitch, MK64.com page, and Discord. When you hover your cursor over them, they slightly enlarge and your cursor turns into a thumb.
 
 I also have my Mario Kart 64 time trials timesheets listed, which simply contain my personal best times for each respective console and mode.
 
